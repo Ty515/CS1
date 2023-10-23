@@ -1,5 +1,5 @@
 # CS1
-// author Your Name
+// Tyler Drake
 // Description: Hello World in C++
 //============================================================
 main
